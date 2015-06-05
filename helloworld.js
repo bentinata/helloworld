@@ -1,6 +1,6 @@
 // This function will return "Hello World"
 function helloworld(){
-  return "Hello Wooo"
+  return "Hoo Wooo"
 }
 
 console.log(helloworld())
